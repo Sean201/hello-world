@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
-HI everyone;
-I want do something
+HI everyone I want do something
+GO
